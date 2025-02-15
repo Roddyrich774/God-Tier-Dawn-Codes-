@@ -2,51 +2,40 @@
   <h2>What’s Included:</h2>
 
   <div class="includes-items">
-    <!-- Nakd High Frequency Therapy Wand -->
+    <!-- Vaginal Probiotic Capsules -->
     <div class="include-item">
-      <span>Nakd High Frequency Therapy Wand</span>
-      <span class="item-price"><span class="strikethrough">Normally $227.99</span> - <strong>$129.99</strong></span>
+      <span>Vaginal Probiotic Capsules</span>
+      <span class="item-price"><span class="strikethrough">Normally $56.99</span> - <strong>$34.99</strong></span>
     </div>
     
-    <!-- 6 Wand Attachments -->
+    <!-- 1 Air Water Bottle & 1 Flavor Pod-->
     <div class="include-item">
-      <span>6 Wand Attachments</span>
+      <span>1 Air Water Bottle & 1 Flavor Pod</span>
       <span class="item-price"><span class="strikethrough">Normally $29.99</span> - <strong>FREE</strong></span>
     </div>
 
-    <!-- Hyaluronic Acid Cream -->
-    <div class="include-item">
-      <span>Hyaluronic Acid Cream</span>
-      <span class="item-price"><span class="strikethrough">Normally $39.99</span> - <strong>FREE</strong></span>
-    </div>
-    
-    <!-- 10 Pcs of Bio Collagen Face Masks -->
-    <div class="include-item">
-      <span>10 Bio Collagen Face Masks</span>
-      <span class="item-price"><span class="strikethrough">Normally $59.99</span> - <strong>FREE</strong></span>
-    </div>
-    
+ 
     <!-- Free Shipping -->
     <div class="include-item">
       <span>Free Shipping</span>
       <span class="item-price"><span class="strikethrough">Normally $9.99</span> - <strong>FREE</strong></span>
     </div>
     
-    <!-- 180-Day Money-Back Guarantee -->
+    <!-- 30-Day Money-Back Guarantee -->
     <div class="include-item">
-      <span>180-Day Money-Back Guarantee</span>
+      <span>30-Day Money-Back Guarantee</span>
       <span class="item-price"><strong>FREE</strong></span>
     </div>
   </div>
 
   <!-- Total Value and Discounted Price -->
   <div class="value-stack-total">
-    <p><span>Total Value:</span> <span class="strikethrough">Normally $359.95</span></p>
-    <p><span>Today’s Price:</span> <strong>$129.99</strong></p>
-    <p class="savings">You Save: $229.96 (64%)</p>
-  </div>
+    <p><span>Total Value:</span> <span class="strikethrough">Normally $97.98</span></p>
+    <p><span>Today’s Price:</span> <strong>34.99</strong></p>
+    <p class="savings">You Save: $62.98 (36%)</p>
+ </div>
 
-  <style>
+<style>
     .product-value-stack-section {
       border: 1px solid #b0b0b0; /* Slightly darker border for contrast */
       padding: 15px;
@@ -57,7 +46,7 @@
       margin-left: auto;
       margin-right: auto;
       box-sizing: border-box;
-      background-color: #f8f8f8; /* Light background to maintain contrast */
+      background-color: #fffaf4; /* Light background to maintain contrast */
     }
     .product-value-stack-section h2 {
       font-size: 18px;
@@ -83,7 +72,7 @@
       text-align: right;
     }
     .product-value-stack-section .item-price strong {
-      color: #579FA6; /* New brand turquoise for "FREE" and "Today's Price" */
+      color: #e64040; /* New brand Orange for "FREE" and "Today's Price" */
     }
     .product-value-stack-section .strikethrough {
       text-decoration: line-through;
@@ -100,11 +89,11 @@
     }
     .product-value-stack-section .value-stack-total strong {
       font-size: 20px;
-      color: #579FA6; /* New brand turquoise for today’s price */
+      color: #e64040; /* New brand Orange for today’s price */
     }
     .product-value-stack-section .savings {
       font-size: 14px;
-      color: #579FA6; /* New brand turquoise for savings */
+      color: #e64040; /* New brand Orange for savings */
       font-weight: 600;
       text-transform: uppercase; /* Make it feel more refined and emphasized */
       margin-top: 5px;
